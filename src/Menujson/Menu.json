@@ -1,0 +1,56 @@
+[
+    {
+        "label":"Home",
+        "link":"/",
+        "isDropdown":false
+        
+
+    },
+    {
+        "label":"About Us",
+        "link":"/aboutus",
+        "isDropdown":false
+    },
+    {
+        "label":"Service",
+        "link":"/service",
+        "isDropdown":true,
+        "dropdownMenu":[
+            {
+                "label":"Client Testimonials",
+                "link":"/clienttestimonials"
+            },
+            {
+                "label":"Learning",
+                "link":"/learning"
+            },
+            {
+                "label":"Our Service",
+                "link":"/ourservice"
+            }
+
+        ]
+    },
+    {
+        "label":"Contact Us",
+        "link":"/contactus",
+        "isDropdown":false
+    },
+    {
+        "label":"Gallery",
+        "link":"/gallery",
+        "isDropdown":true,
+        "dropdownMenu":[
+            {
+                "label":"Gallery -1",
+                "link":"/gallery-1"
+            },
+            {
+                "label":"Gallery -2",
+                "link":"/gallery-2"
+            }
+        ]
+    }
+    
+
+]

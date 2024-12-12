@@ -1,0 +1,23 @@
+#client_testimonial{
+    background-color:white;
+    margin:50px auto;
+    
+}
+#client_testimonial h2{
+    color:#22AC8C;
+    text-align:center;
+    padding:50px auto;
+}
+#client_testimonial p{
+    text-align:center;
+    margin:20px 0px 40px 0px;
+}
+
+#client_testimonial .mybox{
+    background-color:#F5F5F5;
+    padding:40px;
+    text-align:center;
+}
+#client_testimonial .mybox h4{
+    color:#22AC8C;
+}

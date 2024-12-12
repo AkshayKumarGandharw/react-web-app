@@ -1,0 +1,29 @@
+#learning_section{
+
+}
+#learning_section .col-lg-6 .img-div {
+    margin:100px 100px;
+    background:url(../../../Images/reg2-img.jpg) ;
+    background-size:cover;
+    background-position:center;
+    height:200px;
+    border-radius:45px;
+   
+}
+#learning_section .col-lg-6{
+    margin:50px auto;
+}
+#learning_section .col-lg-6 #learn-row{
+    padding:5px 0px 5px 0px;
+}
+#learning_section .col-lg-1 {
+    margin-top:10px;
+}
+#learning_section .col-lg-1  span{
+    padding:8px;
+    border-radius:50%;
+    width:50px;
+    height:50px;
+    background-color:blue;
+    color:white;
+}
